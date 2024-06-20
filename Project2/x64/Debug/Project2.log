@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\!!!София\Програмування\Курсова\Project2\Source.cpp(172,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\!!!София\Програмування\Курсова\Project2\Source.cpp(173,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> E:\!!!София\Програмування\Курсова\Project2\x64\Debug\Project2.exe

@@ -1,0 +1,9 @@
+﻿  Source.cpp
+E:\!!!София\Програмування\Курсова\Project2\Source.cpp(115,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\!!!София\Програмування\Курсова\Project2\Source.cpp(115,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  5 of 180 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project2.vcxproj -> E:\!!!София\Програмування\Курсова\Project2\x64\Release\Project2.exe
